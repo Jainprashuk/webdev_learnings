@@ -1,0 +1,22 @@
+.main-div{
+    width: 100%;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    /* gap: 20px; */
+    background-color:black;
+    width: 100%;
+}
+
+.img-logo{
+flex: 1;
+}
+
+.nav-items{
+flex: 7;
+flex-wrap: wrap;
+}
+.signin-btn{
+flex: 2;
+}
